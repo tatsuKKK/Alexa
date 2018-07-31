@@ -1,2 +1,2 @@
 # Alexa
-Skill for Alexa
+Skill with Lambda
